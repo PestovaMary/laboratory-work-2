@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\b0dun\source\repos\laboratorywork_2\6\source.cpp(8): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\b0dun\source\repos\laboratorywork_2\6\source.cpp(12): warning C4018: <: несоответствие типов со знаком и без знака
+  6.vcxproj -> C:\Users\B0dun\source\repos\LaboratoryWork_2\Debug\6.exe
