@@ -12,7 +12,7 @@ void main()
 	int *mass;
 	int i, j, N, temp;
 
-	printf("¬ведите размер массива\n");
+	printf("Enter the size of the array\n");
 	scanf_s("%d", &N);
 	mass = (int*)malloc(N * sizeof(int));
 
