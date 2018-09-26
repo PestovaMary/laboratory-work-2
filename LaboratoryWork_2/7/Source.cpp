@@ -8,10 +8,10 @@ void main()
 {
 	setlocale(LC_ALL, "Rus");
 	char str1[30], str2[2];
-	printf("¬ведите строку\n");
+	printf("Enter the string\n");
 	gets_s(str1);
 
-	printf("¬ведите символ, который нужно удалить\n");
+	printf("Enter the character you want to delete\n");
 	gets_s(str2);
 
 	int i, temp;
